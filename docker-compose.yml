@@ -1,0 +1,10 @@
+version: '3'
+services:
+    btwnode:
+        image: hasis/btwnode:1.0.4
+        volumes:
+            - ./config/config.json:/usr/src/BTWChain/config.json
+            - ./logs:/usr/src/BTWChain/src/logs
+        ports:
+            - 8196:8196
+        restart: always
