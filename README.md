@@ -1,5 +1,10 @@
 # btwnode
-Bitcoin White Node Docker
+Quick Install Bitcoin White Delegate FAQ (Docker)
+Video instruction: https://youtu.be/SpNglIZyFKg
+VDS: https://www.vultr.com/?ref=7330125
+
+Vote for hasis
+Thank you!
 
 ### Install
 ```git clone https://github.com/blotgg/btwnode.git && cd btwnode && bash install.sh```
