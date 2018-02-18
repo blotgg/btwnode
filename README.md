@@ -1,6 +1,8 @@
 # btwnode
 Quick Install Bitcoin White Delegate FAQ (Docker)
+
 Video instruction: https://youtu.be/SpNglIZyFKg
+
 VDS: https://goo.gl/22Tbwq
 
 Vote for hasis
