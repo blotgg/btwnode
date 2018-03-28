@@ -1,7 +1,7 @@
 version: '3'
 services:
     btwnode:
-        image: hasis/btwnode:1.0.4
+        image: hasis/btwnode:1.0.5
         volumes:
             - ./config/config.json:/usr/src/BTWChain/config.json
             - ./logs:/usr/src/BTWChain/src/logs
