@@ -4,7 +4,7 @@ services:
         image: hasis/btwnode:09.04.2018
         volumes:
             - ./config/config.json:/usr/src/BTWChain/config.json
-            - ./logs:/usr/src/BTWChain/src/logs
+            - ./logs:/usr/src/BTWChain/logs
             - ./blockchain/blockchain.db:/usr/src/BTWChain/blockchain.db
         ports:
             - 8196:8196
